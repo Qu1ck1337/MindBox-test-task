@@ -7,3 +7,4 @@ print(circle.get_area())
 
 #To make simplier
 print(Triangle(10, 10, 10).get_area())
+print(Triangle(3, 4, 5).is_right_triangle())
